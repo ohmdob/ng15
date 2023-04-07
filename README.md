@@ -1,5 +1,5 @@
 # Ng15
 
-yarn add @types/node  
+npm install @types/node -D
 
-yarn add @types/events --dev  
+npm install @types/events -D
